@@ -1,0 +1,14 @@
+com\atguigu\controller\CommunityController.class
+com\atguigu\controller\HouseImageController.class
+com\atguigu\controller\PermissionController.class
+com\atguigu\config\AtguiguAccessDeniedHandler.class
+com\atguigu\controller\DictController.class
+com\atguigu\config\WebSecurityConfig.class
+com\atguigu\controller\FrameController.class
+com\atguigu\controller\HouseBrokerController.class
+com\atguigu\aspect\ControllerAspect.class
+com\atguigu\config\UserDetailServiceImpl.class
+com\atguigu\controller\HouseController.class
+com\atguigu\controller\AdminController.class
+com\atguigu\controller\HouseUserController.class
+com\atguigu\controller\RoleController.class
