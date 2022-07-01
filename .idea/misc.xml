@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/service/service-acl" />
-    <file type="web" url="file://$PROJECT_DIR$/service/service-house" />
-    <file type="web" url="file://$PROJECT_DIR$/service/service-user" />
+    <file type="web" url="file://$PROJECT_DIR$" />
     <file type="web" url="file://$PROJECT_DIR$/web-admin" />
-    <file type="web" url="file://$PROJECT_DIR$/Web/web-admin" />
-    <file type="web" url="file://$PROJECT_DIR$/Web/web-front" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
